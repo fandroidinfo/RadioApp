@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">RadioApp</string>
+    <string name="radio_station_count">%d radio stations</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="error_screen_retry">Retry</string>
+    <string name="loading_content_description">Loading</string>
+    <string name="search_appbar_header">Selected countries: %d</string>
+    <string name="search_prompt">Search here…</string>
+    <string name="search_icon_description">Search Icon</string>
+    <string name="close_icon_description">Close Icon</string>
 </resources>
